@@ -9,7 +9,7 @@ void test_simple_one(int Number1, int Number2) {
 
 int Multiplay(int Num1, int Num2) {
       int Product = (Num1 * Num2);
-      printf("sucess");
+      printf("sucess..........\n");
       return Product;
 }
 int main() {
